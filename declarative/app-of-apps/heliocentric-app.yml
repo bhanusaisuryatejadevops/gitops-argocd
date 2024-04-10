@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/bhanusaisuryatejadevops/gitops-argocd/
+    repoURL: https://github.com/bhanusaisuryatejadevops/gitops-argocd.git
     targetRevision: HEAD
     path: ./declarative/manifests/heliocentric-model
    
